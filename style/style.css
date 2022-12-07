@@ -1,0 +1,16 @@
+
+
+/* This is heading section */
+
+h1{
+    color: aqua;
+    display: inline;
+}
+
+span{
+    display: block;
+}
+
+#green{
+    color: greenyellow;
+}
